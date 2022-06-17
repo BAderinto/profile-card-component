@@ -1,0 +1,18 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+* body {
+  font-size: 15px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 0.7rem;
+}
+
+.main {
+  background-image: url("../images/bg-pattern-card.svg");
+}/*# sourceMappingURL=style.css.map */
